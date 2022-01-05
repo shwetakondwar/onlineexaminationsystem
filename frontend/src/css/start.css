@@ -1,0 +1,60 @@
+
+.inimg{
+    height: 300px;
+    width: 300px;
+    
+}
+.abcd{
+    display: flex;
+    flex-direction: row;
+    align-content: left;
+}
+.div121{
+   margin-left: 100px;
+}
+.innerlink{
+    margin-left: 20px;        
+}
+:root{
+    margin: 0px;
+overflow: hidden;
+}
+
+
+.abcd1{
+    background-image: url(../images/UT.png);
+    height: 100vh; 
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.abcd5{
+    background-image: url(../images/imag9.jpg);
+    height: 100vh; 
+    width: 100vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.Container3{
+      margin-top: 10px;
+      margin-left: 0px;
+      text-align: center;
+       
+    }
+.shweta{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 50vw;
+    margin: 10px auto;
+
+}
+ 
+    
+
+
+

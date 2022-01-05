@@ -1,0 +1,191 @@
+.uppertime{
+    position: relative;
+    height: 30px;
+    width: 100vw;
+    text-align: right;
+    background-color: rgb(10, 149, 241);}
+.tushar3{
+    background-color: rgb(245, 9, 9);
+    color: white; 
+    font-size: 18px;
+    font-style: bold;
+    height: 120px;
+    width: 100%;
+    text-align: center;
+
+}
+.tushar4{
+    position: absolute;
+    left: 0px;
+    background-color: rgb(10, 149, 241);
+    color: white; 
+    font-size: 18px;
+    font-style: bold;
+    height: 30px;
+    width: 12vw;
+    text-align: center;
+
+}
+.tushar5{
+    position: absolute;
+    background-color: rgb(10, 149, 241);
+    color: white; 
+    font-size: 18px;
+    font-style: bold;
+    height: 30px;
+    left: 12vw;
+    width: 70vw;
+    text-align: center;
+
+}
+.redtime{
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+    width: 100vw;
+    text-align: center;
+    background-color:rgb(10, 149, 241) ;
+}
+
+.attempted{
+    height: 33px;
+    width: 36px;
+    border-radius: 30px;
+    font-size: 20px;
+    margin: 10px;
+    background-color: green;
+}
+.maindiv{
+    width: 73.2vw;
+    margin: 0px;
+    height: 90vh;
+}
+.saga{
+    margin-top: 3px;
+    color: white;
+    font-size: 20px;
+
+}
+.upperdiv{
+    height: 80vh;
+    /* background-color: rgb(0, 174, 255); */
+    width: 100%;
+    margin-left: 0px;
+   
+}
+.mainbox{
+    display: flex;
+    flex-direction: row;
+}
+.timesof{
+    padding-top: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.timesof1{
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+/* .abcd7{
+    background-image: url(../images/background.png);
+    height: 100vh; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+.lowerdiv{
+    margin-top: 5px;
+    margin-left: 2px;
+    width: 26vw;
+    height: 80vh;
+    text-align: center;
+    background-color: grey;
+}
+.choicesblock{
+    display: flex;
+    
+}
+/* .choicesblock:hover{
+   background-color: chocolate;
+} */
+.choicesspan{
+    margin-top: 0px;
+    padding-top: 0px;
+    width: 5vw;
+    font-size: 24px;
+    display: inline-block;
+    text-align: start;
+    
+}
+.chcg{
+    margin: 0px 15px;
+}
+.upperques{
+    margin: 5px 10px;
+    padding: 5px;
+}
+.asdf{
+    display: inline-block;
+}
+.optionsofexam{
+    margin-top: 0px;
+    width: 85%;
+    font-size: 22px;
+    display: inline-block;
+    padding-left: 12px;
+    padding-top: 4px;
+    border: 1px solid black;
+    background-color: aliceblue;
+    border-radius: 5px;
+    padding-bottom: 4px;
+}
+.optionsofexam:hover{
+    background-color: rgb(66, 248, 10);
+    cursor: pointer;
+}
+.insradio{
+    height: 20px;
+    width: 5%;
+    margin-top: 5px;
+}
+.topques{
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 22px;
+}
+.buttonofsavenext{
+    height: 35px;
+    margin: 15px auto;
+    width: 170px;
+    cursor: pointer;
+    background-color: rgb(21, 177, 42);
+    
+}
+.buttonsfather{
+    align-items: center;
+    display: flex;
+    width: 50%;
+    margin: 0px auto;
+    align-content: center;
+    
+
+}
+.choicesblock{
+    cursor: pointer;
+}
+.markingques{
+    display: flex;
+    text-align: center;
+    margin-left: 17px;
+    flex-wrap: wrap;
+    margin-right: 10px;
+}
+.innermarkingques{
+    height: 33px;
+    width: 36px;
+    border-radius: 30px;
+    font-size: 20px;
+    margin: 10px;
+    background-color: red;
+}

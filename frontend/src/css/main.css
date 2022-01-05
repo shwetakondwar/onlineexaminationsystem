@@ -1,0 +1,37 @@
+.div12,.div13{
+    display:inline-block;
+    height: 400px;
+    width: 300px;
+    background-color: bisque;
+    margin-top: 100px;
+    margin-right: 300px;
+}
+.inimg{
+    height: 300px;
+    width: 300px;
+    
+}
+.abcd{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+.div121{
+   margin-left: 100px;
+}
+.innerlink{
+    margin-left: 20px;
+}
+.abcd1{
+    background-image: url(../images/img223.jpg);
+    height: 100vh; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.anmol{
+    max-width: 700px;
+    margin: 130px auto;
+    color: white;
+}
